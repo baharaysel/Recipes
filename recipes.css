@@ -1,0 +1,28 @@
+nav {
+	background-color: lightblue;
+	width: 20em;
+	}
+nav ul {
+	margin-left: 10px;
+}
+img {
+	width: 400px;
+	height: 200
+	border: 5px solid lightblue;
+	padding: 10px;
+}
+
+article {
+	margin-left: 40px
+}
+h1 {
+	font-size: 50px;
+	text-align: center;
+	background: aliceblue;
+	margin:0px;
+}
+body {
+	font-family: sans-serif;
+	margin top: 0px;
+	margin-right: 40px;
+}
